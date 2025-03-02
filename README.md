@@ -1,4 +1,4 @@
-<h1>Hi, I'm Manny👋</h1>
+<h1>Hi, I'm Emmanuel Manny Aneni👋</h1>
 
 <p>I'm a self-taught software developer with a passion for <strong><em>Python</em></strong> and <strong><em>web development</em></strong>.</p>
 <p>I love building things, solving problems, and continuously learning new technologies. Currently, I'm working on some personal projects that I'll be sharing here, so stay tuned!</p>
